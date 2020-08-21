@@ -10,7 +10,7 @@ Aplicação web onde o usuário poderá obter informações que possibilitem a t
 
 Acesse pelo site:
 
-`https://gisele-cesar.github.io/SAP004-data-lovers/src` ou clique [aqui](https://gisele-cesar.github.io/SAP004-data-lovers/src)
+`https://renataalmeids.github.io/SAP004-data-lovers/` ou clique [aqui](https://gisele-cesar.github.io/SAP004-data-lovers/src)
 
 ## Personas
 
